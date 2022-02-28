@@ -5,6 +5,7 @@ getgenv().Operator =
 666447670, --Snow
 903327775, --Hax0963
 2003508283, --Saturn
+243177450, --Tony
 }
 getgenv().Droppers = game.Players.LocalPlayer
 
